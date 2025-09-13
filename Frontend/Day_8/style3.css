@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container{
+  height: 250px;
+  width: 350px;
+  background-color: rgb(27, 27, 77);
+  position: relative;
+}
+.box{
+  height: 60px;
+  width: 350px;
+  background-color: brown;
+  
+
+}
+
+.first{
+  position: absolute;
+  top: 0px;
+
+}
+
+.second{
+  position: absolute;
+  bottom: 0px;
+}
+
+
+.center{
+  height: 90px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: azure;
+  position: absolute;
+  left: 130px;
+  top: 80px;
+}

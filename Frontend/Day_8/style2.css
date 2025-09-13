@@ -18,23 +18,26 @@
 
 .first, .third{
   height:  85px;
-  width: 85;
+  width: 85px;
 }
+
 .third{
   position: absolute;
   bottom: 0px;
-
+  left: 0px;
 }
 .second, .fourth{
   height: 85px;
   width: 70px;
 }
 .second{
+  position: absolute;
   top: 0px;
   right: 0px;
 }
 
 .fourth{
+  position: absolute;
   bottom: 0px;
   right: 0px;
 }
