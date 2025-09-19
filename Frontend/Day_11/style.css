@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.conatiner{
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.box{
+  height: 150px;
+  width: 150px;
+  background-color: orange;
+  cursor: pointer;
+  transition-property:all;
+  transition-duration: 3s;
+}
+
+.box:hover{
+  background-color: purple;
+  width: 300px;
+  
+
+}
+
+
+
+
+
+
