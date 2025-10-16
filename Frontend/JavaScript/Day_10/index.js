@@ -1,8 +1,8 @@
 //DOCUMENT OBJECT MODEL (DOM)
-// just think of it as a tree structure of HTML elements
-// whihc convert everthing into objects
+// Just think of it as a tree structure of HTML elements
+// Which convert everthing into objects
 //DOM is a programming interface for web documents
-//it represents the page so that programs can change the document structure, style and content
+//It represents the page so that programs can change the document structure, style and content
 //DOM represents the document as nodes and objects
 //DOM allows programming languages to connect to the page
 //DOM is not part of JavaScript
