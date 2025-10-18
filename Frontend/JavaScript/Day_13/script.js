@@ -10,3 +10,8 @@
 // });
 
 
+//EVNET HANDLING 
+const element =documnet.getElementById("first");
+element.addEventListener('click',()=>{
+  element.textContent = "Text is changed";
+})
