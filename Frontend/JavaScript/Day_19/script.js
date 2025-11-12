@@ -159,5 +159,7 @@ placedOrder(orderDetails)
 .catch((error) => {
   console.log("Error", error.message);
 })
-
+.finally(() => {
+  console.log("I am doin cleaning ")
+})
 
